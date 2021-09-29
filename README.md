@@ -23,7 +23,7 @@
 
 搭建大致分为三步：
 1.购买服务器
-![Image text](https://github.com/btcusdt/btceth/blob/main/%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%B4%AD%E4%B9%B0%E6%95%99%E7%A8%8B/%E9%98%BF%E9%87%8C%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%B4%AD%E4%B9%B0%E6%95%99%E7%A8%8B.md)
+![Image text](https://raw.githubusercontent.com/btcusdt/btceth/main/%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%B4%AD%E4%B9%B0%E6%95%99%E7%A8%8B/%E9%98%BF%E9%87%8C%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%B4%AD%E4%B9%B0%E6%95%99%E7%A8%8B.md)
 2.找一个连接服务器的工具登录服务器
 
 3.安装梯子
